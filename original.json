@@ -1,0 +1,258 @@
+{
+  "debug.onTaskErrors": "debugAnyway",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "cSpell.userWords": [
+        "Codechef",
+        "Codeforces",
+        "Geeksfor",
+        "Stackoverflow"
+    ],
+    "editor.minimap.enabled": false,
+    "git.openRepositoryInParentFolders": "never",
+    "lldb.suppressUpdateNotifications": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.startupEditor": "none",
+    
+"emojisense.languages": {
+
+
+    "plaintext": {
+
+
+      "markupCompletionsEnabled": true,
+
+
+      "emojiDecoratorsEnabled": true
+
+
+    },
+
+
+    "javascript.validate.enable": false,
+
+
+    "abap": true,
+
+
+    "bat": true,
+
+
+    "bibtex": true,
+
+
+    "clojure": true,
+
+
+    "coffeescript": true,
+
+
+    "c": true,
+
+
+    "cpp": true,
+
+
+    "csharp": true,
+
+
+    "css": true,
+
+
+    "diff": true,
+
+
+    "dockerfile": true,
+
+
+    "fsharp": true,
+
+
+    "git-commit": true,
+
+
+    "git-rebase": true,
+
+
+    "go": true,
+
+
+    "groovy": true,
+
+
+    "handlebars": true,
+
+
+    "html": true,
+
+
+    "ini": true,
+
+
+    "java": true,
+
+
+    "javascript": true,
+
+
+    "javascriptreact": true,
+
+
+    "json": true,
+
+
+    "jsonc": true,
+
+
+    "latex": true,
+
+
+    "less": true,
+
+
+    "lua": true,
+
+
+    "makefile": true,
+
+
+    "markdown": true,
+
+
+    "objective-c": true,
+
+
+    "objective-cpp": true,
+
+
+    "perl6": true,
+
+
+    "php": true,
+
+
+    "powershell": true,
+
+
+    "jade": true,
+
+
+    "python": true,
+
+
+    "r": true,
+
+
+    "razor": true,
+
+
+    "ruby": true,
+
+
+    "rust": true,
+
+
+    "scss": true,
+
+
+    "sass": true,
+
+
+    "shaderlab": true,
+
+
+    "shellscript": true,
+
+
+    "sql": true,
+
+
+    "swift": true,
+
+
+    "typescript": true,
+
+
+    "typescriptreact": true,
+
+
+    "tex": true,
+
+
+    "vb": true,
+
+
+    "xml": true,
+
+
+    "xsl": true,
+
+
+    "yaml": true
+
+
+  },
+  "codesandbox.currentWorkspace": "171b3f5e-09a8-4bff-a022-c116394577b9",
+  "remote.SSH.remotePlatform": {
+    "171b3f5e-09a8-4bff-a022-c116394577b9.sayak-bhunia.terminalsyk.main.csb": "linux",
+    "171b3f5e-09a8-4bff-a022-c116394577b9.sayak-bhunia.terminal_syk.master.csb": "linux",
+    "171b3f5e-09a8-4bff-a022-c116394577b9.sayak-bhunia.term0.master.csb": "linux"
+  },
+  "workbench.editor.empty.hint": "hidden",
+  "window.zoomLevel": 1,
+  "vsicons.dontShowNewVersionMessage": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "cmake.showOptionsMovedNotification": false,
+  "C_Cpp.default.compilerPath": "",
+  "code-runner.runInTerminal": true,
+  "code-runner.saveAllFilesBeforeRun": true,
+  "code-runner.saveFileBeforeRun": true,
+  "workbench.sideBar.location": "right",
+  "background.editorBackgrounds": [
+    "c:/Users/Sayak/Downloads/9d517609989d9ca3f81c66ad8bc602ff.jpg",
+    "c:/Users/Sayak/Downloads/img2.jpg"
+  ],
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "files.autoSave": "afterDelay",
+  "explorer.fileNesting.patterns": {
+    "*.ts": "${capture}.js",
+    "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+    "*.jsx": "${capture}.js",
+    "*.tsx": "${capture}.ts",
+    "tsconfig.json": "tsconfig.*.json",
+    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb",
+    "*.sqlite": "${capture}.${extname}-*",
+    "*.db": "${capture}.${extname}-*",
+    "*.sqlite3": "${capture}.${extname}-*",
+    "*.db3": "${capture}.${extname}-*",
+    "*.sdb": "${capture}.${extname}-*",
+    "*.s3db": "${capture}.${extname}-*"
+  },
+  "background.windowBackgrounds": [
+    "c:/Users/Sayak/Downloads/7119436.jpg",
+    "c:/Users/Sayak/Downloads/8257091.jpg",
+    "c:/Users/Sayak/Downloads/83d8fd658ef76a4693ca8c330e7436ae.jpg"
+  ],
+  "background.sidebarBackgrounds": [
+    "c:/Users/Sayak/Downloads/img6-modified.png"
+  ],
+  "redhat.telemetry.enabled": false,
+  "leetcode.hint.configWebviewMarkdown": false,
+  "leetcode.workspaceFolder": "C:\\Users\\Sayak\\.leetcode",
+  "leetcode.defaultLanguage": "cpp",
+  "yaml.schemas": {
+    "file:///c%3A/Users/Sayak/.vscode/extensions/atlassian.atlascode-3.4.7/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "workbench.colorTheme": "lazyvim theme",
+  "vscode_custom_css.imports": [
+    "file:///c:/Users/Sayak/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
+  ],
+  "animations.Enabled": true,
+  "gitlens.gitCommands.skipConfirmations": [
+    "fetch:command",
+    "stash-push:command",
+    "switch:command"
+  ]
+}
